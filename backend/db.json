@@ -11,9 +11,14 @@
       "email": "mariajulieta@cod3r.com.br"
     },
     {
-      "name": "Ana Silva",
+      "name": "Ana Silva Alt",
       "email": "anasilva@negocio.com.br",
       "id": 3
+    },
+    {
+      "name": "Novo Usuário Teste",
+      "email": "novo@teste.com",
+      "id": 4
     }
   ]
 }
